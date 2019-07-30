@@ -1,1 +1,1 @@
-# Skeleton project for Swagger
+# openapi  project made with Swagger
